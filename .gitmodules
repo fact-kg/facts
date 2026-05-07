@@ -1,0 +1,12 @@
+[submodule "fact"]
+	path = fact
+	url = https://github.com/fact-kg/fact.git
+[submodule "fact_physics"]
+	path = fact_physics
+	url = https://github.com/fact-kg/fact_physics.git
+[submodule "fact_math"]
+	path = fact_math
+	url = https://github.com/fact-kg/fact_math.git
+[submodule "fact_computer"]
+	path = fact_computer
+	url = https://github.com/fact-kg/fact_computer.git
