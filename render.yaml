@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: fact-kg
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: cd fact && uvicorn pysrc.web.server:app --host 0.0.0.0 --port $PORT
+    plan: free
