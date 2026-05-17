@@ -10,3 +10,6 @@
 [submodule "fact_computer"]
 	path = fact_computer
 	url = https://github.com/fact-kg/fact_computer.git
+[submodule "fact_chemistry"]
+	path = fact_chemistry
+	url = https://github.com/fact-kg/fact_chemistry.git
